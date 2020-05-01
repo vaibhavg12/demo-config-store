@@ -7,4 +7,4 @@ spring:
         git:
           uri: https://github.com/vaibhavg12/demo-config-store
           search-paths:
-		       - '*service'
+            - '*service'
