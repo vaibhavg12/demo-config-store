@@ -1,2 +1,2 @@
 # demo-config-store
-spring cloud cofig store for demo purposes
+spring cloud config store for demo purposes
