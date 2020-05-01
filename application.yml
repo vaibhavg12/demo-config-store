@@ -6,7 +6,7 @@ spring:
       server:
 	  #can be any server or hosted store. In this case I am using git.
         git:
-          uri:
+          uri: https://github.com/vaibhavg12/demo-config-store
           search-paths:
            #to pick up all sub folders sending with word "service"
 		   - '*service'
