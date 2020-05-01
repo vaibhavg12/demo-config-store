@@ -1,0 +1,9 @@
+entitya:
+ propertya:
+  min: 1
+  max: 20
+ propertyb:
+  value: 1
+entityb:
+ propertya:
+  value: qa

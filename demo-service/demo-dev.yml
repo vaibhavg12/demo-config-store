@@ -1,0 +1,9 @@
+entitya:
+ propertya:
+  min: 8
+  max: 31
+ propertyb:
+  value: 3
+entityb:
+ propertya:
+  value: dev

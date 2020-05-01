@@ -1,0 +1,9 @@
+entitya:
+ propertya:
+  min: 10
+  max: 15
+ propertyb:
+  value: 10
+entityb:
+ propertya:
+  value: default

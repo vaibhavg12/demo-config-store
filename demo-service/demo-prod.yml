@@ -1,0 +1,9 @@
+entitya:
+ propertya:
+  min: 5
+  max: 50
+ propertyb:
+  value: 5
+entityb:
+ propertya:
+  value: prod
